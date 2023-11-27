@@ -1,15 +1,14 @@
 ### Hi there 👋, Moiz This side 👨🏻‍💻  
 ![header](https://res.cloudinary.com/practicaldev/image/fetch/s--XhXh1mHh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t8pcobwf085balynbs2f.png)
 
-- 🔭 I’m currently focusing on upgrading skills 👨⌛️
-- 🌱 Democratising the Kubernetes adoption 👨🏻‍💻
-- 👯 Open to collaborate on open-source Projects 🤗
-- ⚙️ Loves to learn & share with the community 🐬
-- 💬 Ask me about anything, will we happy to help 👦🏻🥰
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/moiz-khalid-286562226/">LinkedIn</a> 😍
-- 😍 For Business deals reach me through 📩
-- 🤗 Love to make new connections 👫🐥
-- ⚡ Fun fact: I'am an Original 🐺🧛🏻‍♂️🔥 <hr>
+- I’m currently focusing on upgrading skills.
+- Democratising the Kubernetes adoption.
+- Open to collaborate on open-source Projects.
+- Loves to learn & share with the community.
+- Ask me about anything, will we happy to help.
+- How to reach me: <a href="https://www.linkedin.com/in/moiz-khalid-286562226/">LinkedIn</a> 
+- Love to make new connections 
+- Fun fact: I'am an Original  <hr>
 
 ### Languages & Tools Worked On 👨🏻‍💻
 <code><img height="35" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
